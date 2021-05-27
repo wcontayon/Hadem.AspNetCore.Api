@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yMYufVpveDtslxRhy/lqmLfA1vqACZty82scz5B5QlhpJ9kU6+lzIwAaF8OzucLlrSNKcImiH+WbWmEBdk+n9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Surf7\\source\\repos\\Hadem.AspNetCore.Api\\src\\Core\\Hadem.AspNetCore.Api.Core\\Hadem.AspNetCore.Api.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Surf7\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\microsoft.aspnetcore.http.features\\6.0.0-preview.3.21201.13\\microsoft.aspnetcore.http.features.6.0.0-preview.3.21201.13.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.3.21201.4\\microsoft.extensions.primitives.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.261\\stylecop.analyzers.1.2.0-beta.261.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.261\\stylecop.analyzers.unstable.1.2.0.261.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\system.io.pipelines\\6.0.0-preview.3.21201.4\\system.io.pipelines.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.3.21201.4\\system.runtime.compilerservices.unsafe.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\Surf7\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

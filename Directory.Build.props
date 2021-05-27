@@ -22,10 +22,4 @@
 
   <!-- Build profiles -->
 
-  <PropertyGroup>
-    <BuildProfile Condition="'$(BuildProfile)' == '' ">full</BuildProfile>
-  </PropertyGroup>
-
-  <Import Project="$(MSBuildThisFileDirectory)profiles/$(BuildProfile).props" />
-
 </Project>

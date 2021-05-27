@@ -1,0 +1,14 @@
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.csproj.AssemblyReference.cache
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.AssemblyInfoInputs.cache
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.AssemblyInfo.cs
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\bin\Debug\net6.0\Hadem.AspNetCore.Api.Core.deps.json
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\bin\Debug\net6.0\Hadem.AspNetCore.Api.Core.dll
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\bin\Debug\net6.0\ref\Hadem.AspNetCore.Api.Core.dll
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\bin\Debug\net6.0\Hadem.AspNetCore.Api.Core.pdb
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\staticwebassets\Hadem.AspNetCore.Api.Core.StaticWebAssets.Manifest.cache
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\scopedcss\bundle\Hadem.AspNetCore.Api.Core.styles.css
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.dll
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\ref\Hadem.AspNetCore.Api.Core.dll
+C:\Users\Surf7\source\repos\Hadem.AspNetCore.Api\src\Core\Hadem.AspNetCore.Api.Core\obj\Debug\net6.0\Hadem.AspNetCore.Api.Core.pdb

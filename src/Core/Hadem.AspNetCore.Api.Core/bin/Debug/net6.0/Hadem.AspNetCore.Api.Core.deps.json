@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hadem.AspNetCore.Api.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.AspNetCore.Http.Features": "6.0.0-preview.3.21201.13",
+          "StyleCop.Analyzers": "1.2.0-beta.261"
+        },
+        "runtime": {
+          "Hadem.AspNetCore.Api.Core.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "6.0.0-preview.3.21201.13",
+          "System.Text.Encodings.Web": "4.5.0"
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/6.0.0-preview.3.21201.13": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0-preview.3.21201.4",
+          "System.IO.Pipelines": "6.0.0-preview.3.21201.4"
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0-preview.3.21201.4"
+        }
+      },
+      "StyleCop.Analyzers/1.2.0-beta.261": {
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.261"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.261": {},
+      "System.IO.Pipelines/6.0.0-preview.3.21201.4": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.3.21201.4": {},
+      "System.Text.Encodings.Web/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "Hadem.AspNetCore.Api.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/6.0.0-preview.3.21201.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-125Bc26kBy+w3fk+OTiK4dLCLPPxoPGiKHv74Iy0/2JHHuh2YiqUnV03HU8YNa3Sl5V13uRM12SfEF7KB/XNYA==",
+      "path": "microsoft.aspnetcore.http.features/6.0.0-preview.3.21201.13",
+      "hashPath": "microsoft.aspnetcore.http.features.6.0.0-preview.3.21201.13.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Guby+tFJu2EBsU164X5SvOwYST3/NmPSwihBrvc3lt/opnmB29BwwEjF3mpoGhulpafNUrAArRO34Cpl3WS9Fg==",
+      "path": "microsoft.extensions.primitives/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.extensions.primitives.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.2.0-beta.261": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C0bMvkB95HkX2LNsKO9KbVM+BMzkHjRXxdxQ7rogiy8gtwy2yAaPNFY1+98DzlN8XUpJ/39oGX6Da7qnMp2FeA==",
+      "path": "stylecop.analyzers/1.2.0-beta.261",
+      "hashPath": "stylecop.analyzers.1.2.0-beta.261.nupkg.sha512"
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.261": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FpInVJVmFyWIRz4oIpPpLuOkW3oFhfU4CcT7bkeZlN+iwG1T37hGVZFQ8bA2fsJv5vAHOlqLpvk7HyU3q6tF2w==",
+      "path": "stylecop.analyzers.unstable/1.2.0.261",
+      "hashPath": "stylecop.analyzers.unstable.1.2.0.261.nupkg.sha512"
+    },
+    "System.IO.Pipelines/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-chNjTSby8iMhApT3lCX8q21b3nT02xIllpok2OU4XKkovE5idd2+Tf5sDnUPydOd+tncfLW/zSmzR2av+faCrg==",
+      "path": "system.io.pipelines/6.0.0-preview.3.21201.4",
+      "hashPath": "system.io.pipelines.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ca5NW4+2C30qV+V5qt+uUje+bJkJsUwSGy07K2P/VamY1+ot5zIvzB9fJtiFFR3uZaEPLozoNw+rXX2Iaf5hXw==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0-preview.3.21201.4",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==",
+      "path": "system.text.encodings.web/4.5.0",
+      "hashPath": "system.text.encodings.web.4.5.0.nupkg.sha512"
+    }
+  }
+}
